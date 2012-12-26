@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n FrankTheGooseBot
+web: bin/hubot -a irc -n FrankTheBot
