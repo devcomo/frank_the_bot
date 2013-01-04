@@ -20,7 +20,7 @@
 providers =
   holman: (noun) ->
     noun = escape noun
-    "http://fuckyeah.herokuapp.com/#{noun}#.jpg"
+    "http://fuckyeah.herokuapp.com/#{noun}.jpg"
   # If you want the original FYN, you can use this URL instead.
   # WARNING: The results from FYN are a bit "quirky", to put it charitably.
   # Using this endpoint turned Hubot into a demented, pervy old man who
