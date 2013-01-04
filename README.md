@@ -1,6 +1,8 @@
-# Hubot
+# Frank The Hubot
 
-This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
+Frank is a version of GitHub's Campfire bot, hubot. He's pretty cool.
+He's being custom scripted to suit the needs of [CoMO Rich
+Web](http://comorichweb.posterous.com). 
 
 This version is designed to be deployed on [Heroku][heroku].
 
