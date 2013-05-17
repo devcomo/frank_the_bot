@@ -1,8 +1,8 @@
 # Frank The Hubot
 
 Frank is a version of GitHub's Campfire bot, hubot. He's pretty cool.
-He's being custom scripted to suit the needs of [dev/
-como](http://devcomo.com).
+He's being custom scripted to suit the needs of
+[dev/como](http://devcomo.com).
 
 This version is designed to be deployed on [Heroku][heroku].
 
