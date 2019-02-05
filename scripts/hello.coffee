@@ -11,6 +11,9 @@
 module.exports = (robot) ->
   helloReplies = ['Hi!', 'Howdy', 'Hello!', 'Wad up bro?', 'Yo', 'Greetings friend', 'Hey buddy']
 
+  robot.enter (res) ->
+    res.send res.random helloReplies
+
   robot.hear /^(Hi|Hello|Welcome)\s*(all|everyone|Frank|frank_the_bot)?$/i, (res) ->
     res.send res.random helloReplies
 
